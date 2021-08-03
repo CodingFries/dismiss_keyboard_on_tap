@@ -21,4 +21,6 @@ class MyApp extends StatelessWidget {
 }
 ```
 
+You can also use it around separate widgets if you want more control.
+
 That's all Enjoy.
