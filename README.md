@@ -2,7 +2,7 @@
 
 Dismisses Keyboard by tapping outside text field on the screen.
 
-<p align="center"><img src="https://github.com/CodingFries/dismiss_keyboard_on_tap/blob/master/gif/dissmiss_keyboard.gif?raw=true"/></p>
+<p align="center"><img src="https://github.com/CodingFries/dismiss_keyboard_on_tap/blob/master/gif/dissmiss_keyboard.gif?raw=true" style="height:400px;/></p>
 
 ## Usage
 Simply wrap MaterialApp with this widget and it will dismiss the keyboard whenever tapped outside the Text Field on any Screens.
