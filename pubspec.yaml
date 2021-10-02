@@ -1,6 +1,6 @@
 name: dismiss_keyboard_on_tap
 description: Dismisses Keyboard by tapping outside text field on the screen.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/awais-amjed/dismiss_keyboard_on_tap
 
 environment:

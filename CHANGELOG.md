@@ -5,3 +5,7 @@ Initial Release
 ## 0.0.2
 
 Edited Readme
+
+## 1.0.0
+
+Fixed issues
