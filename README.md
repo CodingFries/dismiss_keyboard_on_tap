@@ -3,7 +3,7 @@
 Dismisses Keyboard by tapping outside text field on the screen.
 
 ## Usage
-Simply wrap MaterialApp with this widget and it will dismiss the keyboard whenever tapped outside the Text Field on all Screens.
+Simply wrap MaterialApp with this widget and it will dismiss the keyboard whenever tapped outside the Text Field on any Screens.
 
 
 ```dart

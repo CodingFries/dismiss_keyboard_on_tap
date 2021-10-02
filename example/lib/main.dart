@@ -10,7 +10,24 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return DismissKeyboardOnTap(
       child: MaterialApp(
-        home: Scaffold(),
+        home: Scaffold(
+          body: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text('Dismiss Keyboard Example'),
+              Padding(
+                padding: const EdgeInsets.all(20.0),
+                child: TextField(
+                  decoration: InputDecoration(
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
