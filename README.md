@@ -2,6 +2,8 @@
 
 Dismisses Keyboard by tapping outside text field on the screen.
 
+## Demo
+
 <p align="center"><img src="https://github.com/CodingFries/dismiss_keyboard_on_tap/blob/master/gif/dissmiss_keyboard.gif?raw=true" style="height:400px;"/></p>
 
 ## Usage
