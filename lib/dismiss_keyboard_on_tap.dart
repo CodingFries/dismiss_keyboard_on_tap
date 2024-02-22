@@ -1,9 +1,10 @@
 import 'package:flutter/cupertino.dart';
 
 class DismissKeyboardOnTap extends StatelessWidget {
-  /// Wrap this around a widget and this would dismiss keyboard when tapped anywhere on the screen outside the text field.
-
+  /// The widget to wrap around.
   final Widget child;
+
+  /// Wrap this around a widget and this would dismiss keyboard when tapped anywhere on the screen outside the text field.
   DismissKeyboardOnTap({required this.child});
 
   @override
