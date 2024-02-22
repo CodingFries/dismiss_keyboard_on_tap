@@ -1,15 +1,19 @@
-## 0.0.1
+## 2.0.0
 
-Initial Release
-
-## 0.0.2
-
-Edited Readme
-
-## 1.0.0
-
-Fixed issues
+* Updated Dependencies and SDK constraints
 
 ## 1.0.1
 
-Updated Readme
+* Updated Readme
+
+## 1.0.0
+
+* Fixed issues
+
+## 0.0.2
+
+* Edited Readme
+
+## 0.0.1
+
+* Initial Release
